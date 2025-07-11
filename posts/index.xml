@@ -16,9 +16,9 @@
             
             <guid>https://example.org/posts/my-first-post/</guid>
             <description>&lt;h3 id=&#34;你好这是我的博客&#34;&gt;你好，这是我的博客&lt;/h3&gt;
-&lt;p&gt;欢迎来到我的博客。&lt;/p&gt;</description>
+&lt;p&gt;欢迎来到我的博客，花了不少功夫，小白一枚。&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h3 id="你好这是我的博客">你好，这是我的博客</h3>
-<p>欢迎来到我的博客。</p>
+<p>欢迎来到我的博客，花了不少功夫，小白一枚。</p>
 ]]></content>
         </item>
         
