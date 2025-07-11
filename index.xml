@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acvado的博客</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Acvado的博客</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 11 Jul 2025 20:39:04 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myfriends</title>
+      <link>https://example.org/links/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.org/links/</guid>
+      <description>&lt;p&gt;&lt;a target=&#34;_blank&#34; href=https://kzaqur.github.io/ title=Auseper class=&#34;friendurl&#34;&gt;&lt;/p&gt; &#xA;&#x9;&lt;div class=&#34;frienddiv&#34;&gt;&#xA;      &lt;div class=&#34;frienddivleft&#34;&gt;&#xA;        &lt;img class=&#34;myfriend&#34; src=https://example.org/auseper.jpg /&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;frienddivright&#34;&gt;&#xA;        Auseper&lt;br /&gt;二次元爱好者。&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Fri, 11 Jul 2025 20:39:04 +0800</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>&lt;h1 id=&#34;acvado&#34;&gt;Acvado&lt;/h1&gt;&#xA;&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;&#xA;&lt;p&gt;一名高中生。&#xA;QQ:2842078726&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 11 Jul 2025 20:32:48 +0800</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;h3 id=&#34;你好这是我的博客&#34;&gt;你好，这是我的博客&lt;/h3&gt;&#xA;&lt;p&gt;欢迎来到我的博客。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
